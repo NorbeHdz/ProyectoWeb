@@ -1,0 +1,32 @@
+.button-container{
+    display:inline-block;
+    position:relative;
+    width: 100%;
+    }
+    
+.button-container a{
+    position: absolute;
+    bottom:55%;
+    right:85%;
+    
+    background-color:#8F0005;
+    border-radius:1.5em;
+    color:white;
+    text-transform:uppercase;
+    padding:1em 1.5em;
+    
+    }
+
+.button-container h1{
+    position: absolute;
+    bottom:60%;
+    right:65%;        
+    border-radius:2em;
+    color:white;
+    text-transform:uppercase;
+    padding:1em 1.5em;
+    }
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+    }
